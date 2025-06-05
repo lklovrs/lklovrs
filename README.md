@@ -4,7 +4,7 @@ I’m an IT student passionate about front-end development and building practica
 
 ## 🔨 Projects
 
-### 📊 BMI Website ( 
+### 📊 BMI Website  
 A simple website that calculates Body Mass Index (BMI) based on user inputs for height and weight.  
 - Provides instant feedback on BMI category (underweight, normal, overweight, obese)  
 - User-friendly and responsive design  
