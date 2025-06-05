@@ -4,6 +4,13 @@ I’m an IT student passionate about front-end development and building practica
 
 ## 🔨 Projects
 
+### 📊 BMI Website ( 
+A simple website that calculates Body Mass Index (BMI) based on user inputs for height and weight.  
+- Provides instant feedback on BMI category (underweight, normal, overweight, obese)  
+- User-friendly and responsive design  
+- Developed using HTML, CSS, and JavaScript 
+You can view the full project code here: [BMI Website Repository (syakirin)](https://github.com/lklovrs/syakirin)
+
 ### 👗Wardrobe OOTD (Outfit of the Day) Application  
 This app allows users to upload their clothing items, track how often they wear each piece, and get AI-based outfit suggestions. It includes features such as:  
 - Wardrobe History to track previously worn outfits  
